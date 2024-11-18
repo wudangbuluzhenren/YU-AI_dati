@@ -29,8 +29,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * AI 测评类应用评分策略
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://www.code-nav.cn">编程导航学习圈</a>
+ * @author <a href="https://github.com/wudangbuluzhenren">wudangbuluzhenren</a>
  */
 @ScoringStrategyConfig(appType = 1, scoringStrategy = 1)
 public class AiTestScoringStrategy implements ScoringStrategy {
