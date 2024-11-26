@@ -20,10 +20,6 @@ YU-AI答题平台是一款基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava 
 
 本项目涉及 10 多个页面，前面已经展示部分页面。
 
-应用详情页：
-
-![](https://pic.yupi.icu/1/20240604145229915.png)
-
 用户答题页面：
 
 ![](https://pic.yupi.icu/1/20240604145230156.png)
