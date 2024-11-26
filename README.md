@@ -8,17 +8,15 @@ YU-AI答题平台是一款基于 Vue 3 + Spring Boot + Redis + ChatGLM + RxJava 
 - MyBatis-Plus 及 MyBatis X 自动生成
 - Redisson 分布式锁
 - Caffeine 本地缓存
-- ⭐️ 基于 ChatGLM 大模型的通用 AI 能力
-- ⭐️ RxJava 响应式框架 + 线程池隔离实战 
-- ⭐️ SSE 服务端推送
-- ⭐️ Shardingsphere 分库分表
-- ⭐️ 幂等设计 + 分布式 ID 雪花算法
-- ⭐️ 多种设计模式
-- ⭐️ 多角度项目优化：性能、稳定性、成本优化、产品优化等
-- 
-### 项目展示
+- 基于 ChatGLM 大模型的通用 AI 能力
+- RxJava 响应式框架 + 线程池隔离实战 
+- SSE 服务端推送
+- Shardingsphere 分库分表
+- 幂等设计 + 分布式 ID 雪花算法
+- 多种设计模式
+- 多角度项目优化：性能、稳定性、成本优化、产品优化等
 
-本项目涉及 10 多个页面，前面已经展示部分页面。
+### 项目展示
 
 用户答题页面：
 
